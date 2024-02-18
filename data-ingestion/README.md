@@ -1,0 +1,6 @@
+# Data ingestion
+This section is part of the repository Therapy Session Copilot (https://github.com/fsi-hack4autism/program-development-copilot), hosted as a part of FSI Hackathon for Autism (https://github.com/fsi-hack4autism).
+
+* Focus is on capturing and normalizing the data for further use
+* Data can be captured in a multimodal format - audio, video, and other formats. 
+* Input can be in various languages. 
