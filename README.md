@@ -18,9 +18,12 @@ This repository will host multiple code bases to ingest past program summaries -
 * Focus is on capturing and normalizing the data for further use
 * Data can be captured in a multimodal format - audio, video, and other formats. 
 * Input can be in various languages. 
+
 Note: Create all projects in a folder under https://github.com/fsi-hack4autism/program-development-copilot/tree/main/data-ingestion
+
 ### Copilot creation
 * Focus is on using a copilot to generate a treatment plan
   * This module will specifically look for markers to place the child in a cohort of other children
   * The copilot will assist through various interfaces - summary reports, chatbots, indicators to watch for, etc.
+
 Note: Create all projects in a folder under https://github.com/fsi-hack4autism/program-development-copilot/tree/main/copilot
