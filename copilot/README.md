@@ -1,5 +1,5 @@
 # Copilot for program development
-This section is part of the repository Therapy Session Copilot (https://github.com/fsi-hack4autism/program-development-copilot), hosted as a part of FSI Hackathon for Autism (https://github.com/fsi-hack4autism).
+This section is part of the repository Program Development Copilot (https://github.com/fsi-hack4autism/program-development-copilot), hosted as a part of FSI Hackathon for Autism (https://github.com/fsi-hack4autism).
 
 * Focus is on using a copilot to generate a treatment plan
   * This module will specifically look for markers to place the child in a cohort of other children
