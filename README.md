@@ -11,6 +11,8 @@ A BCBA (Board Certified Behavior Analyst) designs a program specifically for eac
 * Based on past successes of children in the cohort, the co-pilot will suggest a recalibrated treatment and markers (if needed) to the BCBA
 * It can generate a progress summary at any given point of time
 
+### Architecture
+![Program Development Architecture](program-development-arch.PNG)
 
 ## Code repository setup
 This repository will host multiple code bases to ingest past program summaries - uploaded by the BCBA (Board Certified Behavioral Analyst) - as well as the ability to generate a treatment plan. Largely, the repository will contain projects in the following areas:
