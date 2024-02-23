@@ -1,4 +1,4 @@
-# Use Case 3: Using ML To Transform Learner Outcomes
+# Data description
 
 A brief description of what this project does and who it's for
 
