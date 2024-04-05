@@ -1,0 +1,11 @@
+azure-ai-textanalytics
+azure-storage-blob
+azure-ai-formrecognizer
+azure-cognitiveservices-speech
+openai
+requests
+pandas
+os
+json
+
+
